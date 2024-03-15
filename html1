@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <h2 id="title">ENVIRONMENTAL POLLUTION</h2>
+    <img src="/home/mahira/Downloads/environmentalpollution.png">
+    <P>Environmental pollution is unwarranted disposal of mass or energy into earth's 
+        natural resource pool such as water,land, or air that results in long or short-term
+        detriment to the atmosphere and its ecological health to negatively impact the living
+         beings and their life both quantitatively and qualitatively.</P>
+    <P>Environmental Pollution occurs when there is an undesired alteration in the 
+        environment that has adverse consequences on plants 
+        and animals.
+    Pollutants are substances that pollute the environment.
+    Pollutants can be liquid, solid, or gaseous in nature.</P>
+    <h4>Types of Environmental Pollution:</h4>
+    <ol>
+        <li><a href="/home/mahira/Downloads/Untitled.jpeg">Air pollution.</a>
+            <p>Air pollution is contamination of the indoor or outdoor environment by any 
+                chemical, physical or biological agent that modifies the natural characteristics
+                 of the atmosphere. Household combustion devices, motor vehicles, industrial 
+                 facilities and forest fires are common sources of air pollution.</p>
+                </li>
+        <li><a href="/home/mahira/Downloads/Untitled.png">Water pollution.</a>
+            <p> Water pollution occurs when harmful substances—often chemicals or 
+                microorganisms—contaminate a stream, river, lake, ocean, aquifer, or other body
+                 of water, degrading water quality and rendering it toxic to humans or the environment.</p>
+        </li>
+        <li><a href="/home/mahira/Downloads/images.png">Land pollution.</a>
+            <p>Land pollution refers to the destruction or a decline in quality of the earth's surface 
+                as a result of human actions. This could include anything from mining to agriculture to
+                 building, and consequences may be intentional or unintentional. Land pollution includes 
+                 legacy pollution, illegal dumping and litter.</p>
+        </li>
+    </ol>
+    <h4>Causes of Environmental Pollution:</h4>
+    <ul>
+        <li>Burning garbage.</li>
+        <li>Acid rain.</li>
+        <li>Mining.</li>
+        <li>Radioactive elements.</li>
+        <li>Sewage and wastewater.</li>
+        <li>Wildfires.</li>
+        <li>Burning of fossil fuels.</li>
+        <li>Dumping of garbage onto the soil.</li>
+    </ul>
+    <h4>Solutions for Environmental Pollution:</h4>
+    <p>Recycle (& then recycle properly) Implementing recycling habits into your daily
+         life is one of the most effective ways to help lessen landfill waste, conserve 
+         natural resources, save habitats, reduce pollution, cut down on energy consumption,
+          and slow down global warming.<br>
+          Driving less, in favor of public transportation, biking, or walking, helps decrease
+           air pollution. Also, using cars with increased fuel efficiency or electric cars 
+           that do not rely on fossil fuels can decrease the amount of pollution we are
+            contributing to the atmosphere.
+    </p>
+    <a href="#title">Go to top.</a>
+ </html>
+    
