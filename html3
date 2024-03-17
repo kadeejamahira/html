@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <form>
+     <fieldset>
+        <legend>Address</legend>
+        <label>Name:</label>
+        <input type="text" placeholder="your name">
+        <br>
+        <label>Place:</label>
+        <textarea rows="1" cols="25" placeholder="your native country"></textarea>
+        <br> 
+        <label>Date of Birth:</label>
+        <input type="date" min="2000-01-01" max="2024-01-01">
+        <br>
+        <label>Email:</label>
+        <input type="email" placeholder="abc@example.com">
+        <br>
+        <label>Password:</label>
+        <input type="Password" placeholder="your Password">
+        <br>
+        <label>Favourite color:</label>
+        <select>
+            <option value="color">Pink</option>
+            <option value="color">Black</option>
+            <option value="color">Blue</option>
+        </select>
+        <br>
+        <input type="submit">
+        <button type="reset">Reset</button>
+        <button type="button">Click me!</button>
+     </fieldset>
+    </form>
+</html>
