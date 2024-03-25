@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head><title>html9</title></head>
+    <body>
+        <table> 
+            <caption>Fruits.</caption>
+            <thead>
+                <tr>
+                    <th>Fruits Name</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Apple</td>
+                    <td>Orange</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
